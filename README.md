@@ -1,16 +1,13 @@
-### Hi there 👋
+# Chig Beef
+You may know me from https://dev.to/chigbeef_77, in which case you would know about my two main projects.
 
-<!--
-**Chig-Beef/Chig-Beef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Cosplore3D](https://github.com/Chig-Beef/Cosplore3D)
+[Pogo](https://github.com/Chig-Beef/Pogo)
 
-Here are some ideas to get you started:
+I have other projects though, here are the useful ones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Line Counter](https://github.com/Chig-Beef/LineCounter)
+
+Lastly, if you want a bit of fun.
+[RootPowerPerf](https://github.com/Chig-Beef/RootPowerPerf)
+[Thirdle](https://github.com/Chig-Beef/thirdle)
